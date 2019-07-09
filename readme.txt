@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple.
 add merge
 test merge no-ff
 test test
+adfasd
